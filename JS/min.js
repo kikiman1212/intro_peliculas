@@ -1,3 +1,4 @@
+const lacrimosa = "https://www.youtube.com/embed/H4Ji9tsbW7g?si=J5tP3cpZxisRhKUM";
 
 function videoUrl(kiko){
     document.getElementById("slider").src = kiko; /*onclick="videoUrl('vid/joker.mp4')  asi se pone en el div para que aparesca onclick="videoUrl('vid/joker.mp4')*/
